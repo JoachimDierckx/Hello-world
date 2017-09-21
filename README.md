@@ -1,9 +1,8 @@
-# Hello-world
-Place to store ideas, resources and discussions
+# I.T. Skills
 
-I am currently studying Computing and I am learning new I.T. skills everyday.
+I am currently studying Computing BSc at Birkbeck and I am learning new skills everyday.
 
 Hard I.T. skills:
 
 - MS Office
-- 
+- Object-oriented programming (BlueJ)
